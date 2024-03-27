@@ -1,4 +1,4 @@
-# ECommerce - ASP.NET Core 8 MVC
+# ECommerce - ASP.NET Core 8 MVC.
 
 ### Series giới thiệu dự án E-Commerce
 
